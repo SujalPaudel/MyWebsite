@@ -53,6 +53,7 @@ body {
 
 .masthead-brand {
   margin-bottom: 0;
+
 }
 
 .nav-masthead .nav-link {
@@ -104,4 +105,10 @@ body {
  */
 .mastfoot {
   color: rgba(255, 255, 255, .5);
+}
+
+.circle{
+max-height: 100px;
+height: 100%;
+padding-top: 10px;
 }
